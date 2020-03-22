@@ -52,6 +52,7 @@
 | 2019-12-28    | 星光大赏 [横版短focus](https://www.bilibili.com/video/av93741745)  [完整版](https://www.bilibili.com/video/av93740282) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 | 2019-12-18    | [腾讯新年晚会](https://www.bilibili.com/video/av93489782) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 | 2019-11-16    | [芭莎慈善夜](https://www.bilibili.com/video/av93471778) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -75,6 +76,7 @@
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-01-12    | [上海演唱会](https://www.bilibili.com/video/av43532673) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12   |  [上海演唱会](https://www.bilibili.com/video/av40606041) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -123,6 +125,7 @@
 | 2019-02-23   |  [北京演唱会](https://www.bilibili.com/video/av47282121) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av45069224) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12   |  [上海演唱会（黑西装）](https://www.bilibili.com/video/av40787238) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
+
 [回目录](#2-视频直拍整理)
 
 <br>
@@ -147,6 +150,7 @@
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  | :----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50530154) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -154,6 +158,7 @@
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av53034992) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -165,6 +170,7 @@
 | 2019-02-23   |  [北京演唱会](https://www.bilibili.com/video/av44756813) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44802669) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44563403) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -186,6 +192,7 @@
 | 2019-03-30   |  [广州演唱会](https://www.bilibili.com/video/av48325241) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av45459878) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44731504) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -195,6 +202,7 @@
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50521037) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-03-30   |  [广州演唱会](https://www.bilibili.com/video/av47970471) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会彩排](https://www.bilibili.com/video/av44557332) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -215,6 +223,7 @@
 | 2019-02-23    | [北京演唱会【盛放】](https://www.bilibili.com/video/av44720144) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会【盛放】](https://www.bilibili.com/video/av45034228) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 | 2019-01-12    | [上海演唱会【盛放】](https://www.bilibili.com/video/av41348600) |   [银河星轨](https://space.bilibili.com/av40783108)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -224,6 +233,7 @@
 | 2019-03-30   |  [广州演唱会](https://www.bilibili.com/video/av48325241) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23   |  [北京演唱会](https://www.bilibili.com/video/av44775815) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会【Rocket Girls】](https://www.bilibili.com/video/av44731901) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
+
 [回目录](#2-视频直拍整理)
 <br>
 
@@ -247,4 +257,5 @@
 | 2019-01-12    | [上海演唱会【十分钟歌曲串烧】](https://www.bilibili.com/video/av43581662) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12    | [上海演唱会【Liar】](https://www.bilibili.com/video/av41348600) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12   |  [上海演唱会【串烧】](https://www.bilibili.com/video/av40714532) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
+
 [回目录](#2-视频直拍整理)
