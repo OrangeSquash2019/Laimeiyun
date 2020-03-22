@@ -34,6 +34,7 @@
 | 2019-12-28    | 星光大赏 [横版短focus](https://www.bilibili.com/video/av93741745)  [完整版](https://www.bilibili.com/video/av93740282) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 | 2019-12-18    | [腾讯新年晚会](https://www.bilibili.com/video/av93489782) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 | 2019-11-16    | [芭莎慈善夜](https://www.bilibili.com/video/av93471778) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
+<br>
 
 #### 月亮警察
 | 时间       |  视频链接 |  上传者  | 来源 |
@@ -41,34 +42,40 @@
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av52807760) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44899846) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12    | [上海演唱会](https://www.bilibili.com/video/av43547989) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 逆光
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-01-12    | [上海演唱会](https://www.bilibili.com/video/av43532673) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 撞
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av53045105) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av45450927) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 卡路里
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 
+<br>
 
 
 #### Light
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  | :----:  |
 | 2020-01-09    | [广州演唱会](https://www.bilibili.com/video/av50522445) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 我就是这种女孩
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  | :----:  |
 | 2020-01-09    | [广州演唱会](https://www.bilibili.com/video/av50904063) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av45069224) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 生而为赢
 | 时间       |  视频链接 |  上传者  | 来源 |
@@ -76,49 +83,58 @@
 | 2020-01-09    | [北京卫视春晚](https://www.bilibili.com/video/av93749911) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50904190) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-01-12    | [上海演唱会1](https://www.bilibili.com/video/av43586828) [上海演唱会2](https://www.bilibili.com/video/av40628768) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 喊出我的名字
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  | :----:  |
 | 2019-12-27    | [星光大赏彩排](https://www.bilibili.com/video/av93717408) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
+<br>
 
 
 #### 逆风
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  | :----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50530154) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 一生所爱
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av53034992) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 横冲直撞下一站
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50526795) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44802669) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 达拉崩吧
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50526183) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### pick me up
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50525757) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av45459878) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 101个愿望
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50521037) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
+<br>
 
 #### 不染
 | 时间       |  视频链接 |  上传者  | 来源 |
 | :----:   | :----:  | :----:  |:----:  |
 | 2019-01-12    | [上海演唱会【盛放】](https://www.bilibili.com/video/av40642955) |   [银河星轨](https://space.bilibili.com/av40783108)     | B站 |
+<br>
 
 
 #### 其他
