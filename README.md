@@ -264,6 +264,7 @@
 | 2019-02-23   |  [北京演唱会【卡路里+撑腰+红色高跟鞋+摩天轮的眼泪+Liar+游戏互动】](https://www.bilibili.com/video/av47615814) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 | 2019-02-23    | [北京演唱会【sugar+我又初恋了】](https://www.bilibili.com/video/av45445716) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23   |  [北京演唱会【我又初恋了+庆祝】](https://www.bilibili.com/video/av47375558) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
+| 2019-02-23   |  [北京演唱会直拍合集](https://www.bilibili.com/video/av44663952) |   [美云的梨涡](https://space.bilibili.com/403621038)     | B站 |
 | 2019-02-23    | [北京演唱会【红色高跟鞋】](https://www.bilibili.com/video/av45051189) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 | 2019-02-23    | [北京演唱会【101歌曲串烧】](https://www.bilibili.com/video/av44751157) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 | 2019-02-23   |  [即刻电音【猴子说】](https://www.bilibili.com/video/av42398712) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
