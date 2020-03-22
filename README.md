@@ -54,6 +54,7 @@
 | 2019-11-16    | [芭莎慈善夜](https://www.bilibili.com/video/av93471778) |   [百分之柒](https://space.bilibili.com/516737948)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 月亮警察
@@ -69,6 +70,7 @@
 | 2018-11-17   |  [上海站飞行见面会](https://www.bilibili.com/video/av36201979) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 逆光
@@ -78,6 +80,7 @@
 | 2019-01-12   |  [上海演唱会](https://www.bilibili.com/video/av40606041) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 撞
@@ -91,6 +94,7 @@
 | 2018-09-16   |  [LOL英雄联盟七周年](https://www.bilibili.com/video/av37903049) |   [绮云阁](https://space.bilibili.com/av39608494)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 卡路里
@@ -102,8 +106,8 @@
 | 2018-12-31   |  [湖南卫视跨年](https://www.bilibili.com/video/av39609102) |   [绮云阁](https://space.bilibili.com/av40602565)     | B站 |
 
 [回目录](#2-视频直拍整理)
-<br>
 
+<br>
 
 #### light
 | 时间       |  视频链接 |  上传者  | 来源 |
@@ -115,6 +119,7 @@
 | 2018-12-31   |  [湖南卫视跨年](https://www.bilibili.com/video/av39609102) |   [绮云阁](https://space.bilibili.com/av39608494)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 我就是这种女孩
@@ -143,8 +148,8 @@
 | 2018-10-31   |  [超新星盛典](https://www.bilibili.com/video/av37375820) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 
 [回目录](#2-视频直拍整理)
-<br>
 
+<br>
 
 #### 逆风
 | 时间       |  视频链接 |  上传者  | 来源 |
@@ -152,6 +157,7 @@
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av50530154) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 一生所爱
@@ -160,6 +166,7 @@
 | 2019-03-30    | [广州演唱会](https://www.bilibili.com/video/av53034992) |   [银河星轨](https://space.bilibili.com/396322446)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 横冲直撞下一站
@@ -172,6 +179,7 @@
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44563403) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 达拉崩吧
@@ -183,6 +191,7 @@
 | 2019-01-12   |  [上海演唱会](https://www.bilibili.com/video/av40684967) |   [绮云阁](https://space.bilibili.com/387132160)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 创造101
@@ -194,6 +203,7 @@
 | 2019-02-23    | [北京演唱会](https://www.bilibili.com/video/av44731504) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 101个愿望
@@ -204,6 +214,7 @@
 | 2019-02-23    | [北京演唱会彩排](https://www.bilibili.com/video/av44557332) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 不染
@@ -214,6 +225,7 @@
 | 2019-01-12   |  [上海演唱会](https://www.bilibili.com/video/av40606041) |   [绮云阁](https://space.bilibili.com/av40602565)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 盛放
@@ -225,6 +237,7 @@
 | 2019-01-12    | [上海演唱会【盛放】](https://www.bilibili.com/video/av41348600) |   [银河星轨](https://space.bilibili.com/av40783108)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### rocket-girls
@@ -235,6 +248,7 @@
 | 2019-02-23    | [北京演唱会【Rocket Girls】](https://www.bilibili.com/video/av44731901) |   [云中锦书](https://space.bilibili.com/396873015)     | B站 |
 
 [回目录](#2-视频直拍整理)
+
 <br>
 
 #### 其他
