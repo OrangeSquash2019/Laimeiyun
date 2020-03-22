@@ -7,12 +7,13 @@
 | 名称       |  微博 |  B站  |
 | :----:   | :----:  | :----:  |
 | **\| 银河星轨 \| 赖美云**  | [微博主页](https://weibo.com/u/6603926330) | [B站主页](https://space.bilibili.com/396322446)  |
-| **云中锦书 \| 赖美云**  | [微博主页]() | [B站主页](https://space.bilibili.com/396873015?)  |
-| **柒许**  | [微博主页]() | 无  |
-| **SEVENPERCENT 百分之柒**  | [微博主页]() | [B站主页](https://space.bilibili.com/516737948)  |
-| **赖美云Rainbow站**  | [微博主页]() | [B站主页]()  |
-| **美云的梨涡 (个人博)**  | [微博主页]() | 无  |
-| **IR (已停更)**  | [微博主页]() | 无  |
+| **雲中錦書 \| 赖美云**  | [微博主页](https://www.weibo.com/u/6961013359) | [B站主页](https://space.bilibili.com/396873015?)  |
+| **柒许Serendipity丨赖美云**  | [微博主页](https://www.weibo.com/u/7167143606?is_all=1) | 无  |
+| **SEVENPERCENT·百分之柒**  | [微博主页](https://www.weibo.com/u/6538744325) | [B站主页](https://space.bilibili.com/516737948)  |
+| **绮云阁丨赖美云**  | [微博主页](https://www.weibo.com/u/6657478634) | [B站主页](https://space.bilibili.com/387132160)  |
+| **赖美云Rainbow站**  | [微博主页](https://www.weibo.com/u/6547758824) | 无  |
+| **美云的梨涡 (个人博)**  | [微博主页](https://www.weibo.com/u/5175180415) | [B站主页](https://space.bilibili.com/403621038)  |
+| **IRidescent_赖美云 (已停更)**  | [微博主页](https://www.weibo.com/u/1244585363) | 无  |
 
 
 <br><br>
